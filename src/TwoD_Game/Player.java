@@ -1,3 +1,5 @@
+package TwoD_Game;
+
 import java.awt.Graphics;
 
 public class Player {
